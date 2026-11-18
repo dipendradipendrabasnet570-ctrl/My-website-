@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+<style>
+body {
+  background: #101827;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  padding: 40px;
+}
+.card {
+  background: #243247;
+  padding: 25px;
+  border-radius: 15px;
+}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Welcome Bro!</h1>
+<p>My First Website 🚀</p>
+<button onclick="alert('Hello Bro!')">
+Click Me
+</button>
+</div>
+</body>
+</html>
